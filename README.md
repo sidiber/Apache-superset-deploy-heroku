@@ -50,7 +50,7 @@ heroku git:clone -a YOURAPPNAME
 cd YOURAPPNAME
 ```
 You can make the changes you want
--Deploy your changes
+- Deploy your changes
 
 ```sh
 git add .
