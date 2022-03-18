@@ -42,7 +42,7 @@ superset db upgrade
 superset init
 exit
 ```
-- Make changes
+### Make changes
 - Clone the repository
 ```sh
 heroku login
