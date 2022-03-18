@@ -1,7 +1,7 @@
 # Apache-superset-deploy-heroku
 One-button Heroku deploy for the Apache Superset data exploration platform. 
 
-# Realscout [superset](https://github.com/airbnb/superset) on [Heroku](http://heroku.com)
+# [superset](https://github.com/airbnb/superset) on [Heroku](http://heroku.com)
 
 Superset is a data exploration platform designed to be visual, intuitive, and interactive. Visit the project's website at <http://airbnb.io/superset>
 
