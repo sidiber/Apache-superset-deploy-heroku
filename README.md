@@ -24,7 +24,7 @@ Fill out the form, and later you should be performing analytics at the speed of 
 heroku git:clone --app YOURAPPNAME
 ```
 It will be reported as empty "warning: Vous semblez avoir cloné un dépôt vide." - that's ok.
--Pull the remote main
+- Pull the remote main
 ```sh
 cd YOURAPPNAME
 git remote add origin https://github.com/sidiber/Apache-superset-deploy-heroku
