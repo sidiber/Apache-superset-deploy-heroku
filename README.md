@@ -60,6 +60,10 @@ git push heroku master
 
 - Check Papertrail logs for debugging any errors.
 
+```sh
+heroku logs --tail
+```
+
 ### How this works
 
 This repository is essentially a minimal web application that specifies [Superset as a dependency](https://github.com/airbnb/superset), and makes a deploy button available.
